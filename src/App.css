@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+::-webkit-scrollbar {
+  width: 0px;
+}
 
 body {
   background-color: #22254b;
