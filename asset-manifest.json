@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MovieApp/static/css/main.a4bac77e.chunk.css",
-    "main.js": "/MovieApp/static/js/main.1d86bde6.chunk.js",
-    "main.js.map": "/MovieApp/static/js/main.1d86bde6.chunk.js.map",
-    "runtime-main.js": "/MovieApp/static/js/runtime-main.190384a4.js",
-    "runtime-main.js.map": "/MovieApp/static/js/runtime-main.190384a4.js.map",
-    "static/js/2.da817774.chunk.js": "/MovieApp/static/js/2.da817774.chunk.js",
-    "static/js/2.da817774.chunk.js.map": "/MovieApp/static/js/2.da817774.chunk.js.map",
-    "static/js/3.3c056496.chunk.js": "/MovieApp/static/js/3.3c056496.chunk.js",
-    "static/js/3.3c056496.chunk.js.map": "/MovieApp/static/js/3.3c056496.chunk.js.map",
-    "index.html": "/MovieApp/index.html",
-    "static/css/main.a4bac77e.chunk.css.map": "/MovieApp/static/css/main.a4bac77e.chunk.css.map",
-    "static/js/2.da817774.chunk.js.LICENSE.txt": "/MovieApp/static/js/2.da817774.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/MovieApp/static/media/backgroundJudaMove.7d5c0ec2.jpg"
+    "main.css": "/MoviesApp/static/css/main.a02c29f2.chunk.css",
+    "main.js": "/MoviesApp/static/js/main.1d86bde6.chunk.js",
+    "main.js.map": "/MoviesApp/static/js/main.1d86bde6.chunk.js.map",
+    "runtime-main.js": "/MoviesApp/static/js/runtime-main.103529d6.js",
+    "runtime-main.js.map": "/MoviesApp/static/js/runtime-main.103529d6.js.map",
+    "static/js/2.da817774.chunk.js": "/MoviesApp/static/js/2.da817774.chunk.js",
+    "static/js/2.da817774.chunk.js.map": "/MoviesApp/static/js/2.da817774.chunk.js.map",
+    "static/js/3.3c056496.chunk.js": "/MoviesApp/static/js/3.3c056496.chunk.js",
+    "static/js/3.3c056496.chunk.js.map": "/MoviesApp/static/js/3.3c056496.chunk.js.map",
+    "index.html": "/MoviesApp/index.html",
+    "static/css/main.a02c29f2.chunk.css.map": "/MoviesApp/static/css/main.a02c29f2.chunk.css.map",
+    "static/js/2.da817774.chunk.js.LICENSE.txt": "/MoviesApp/static/js/2.da817774.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MoviesApp/static/media/backgroundJudaMove.7d5c0ec2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.190384a4.js",
+    "static/js/runtime-main.103529d6.js",
     "static/js/2.da817774.chunk.js",
-    "static/css/main.a4bac77e.chunk.css",
+    "static/css/main.a02c29f2.chunk.css",
     "static/js/main.1d86bde6.chunk.js"
   ]
 }
