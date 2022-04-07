@@ -1,7 +1,8 @@
 import React from 'react';
-
+import dotenv from 'dotenv'
+dotenv.config();
 const IMG_API = "https://image.tmdb.org/t/p/w1280";
-
+// const IMG_API =process.env.REACT_APP_IMG_API;
 const setVoteClass = (vote) => {
     if (vote >= 8) {
         return "green"
