@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("../backgroundJudaMove.jpg");
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+label{
+    color: black;
+    font-weight: bold;
+}
+h4{
+    color: black;
+}

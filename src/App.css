@@ -4,7 +4,11 @@
 ::-webkit-scrollbar {
   width: 0px;
 }
-
+/* .title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
 body {
   background-color: #22254b;
   color: white;

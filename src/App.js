@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Movie from './components/Movie';
 import './App.css';
 import dotenv from 'dotenv'
+import { Login } from './components/Login';
 
 const IMG_API = "https//image.tmdb.org/t/p/w1280";
 const FEATURED_API =process.env.REACT_APP_FEATURED_API;
@@ -39,16 +40,21 @@ function App() {
   return (
     <>
       <header>
-        <img className="JudaIcon" src="JudaMove.png" />
+        <Login/>
+        {/* <img className="JudaIcon" src="JudaMove.png" />
         <form onSubmit={handleOnSubmit}>
           <input className="search" type="search"
             placeholder="Search..."
             value={searchTerm}
             onChange={handleOnChange}
           />
-        </form>
+        </form> */}
 
       </header>
+        <div className='title'>
+
+      <h1 >Movies</h1>
+        </div>
       <div className="movie-container">
         {movies.length > 0 &&
           movies.map((movie) => <Movie key={movie.id}
